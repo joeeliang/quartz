@@ -187,6 +187,8 @@ export default (() => {
         {cfg.baseUrl && (
           <>
             <meta name="twitter:image" content={ogImagePath} />
+            {/* Added my name here */}
+            <meta name="keywords" content={"Joe Liang"} /> 
             <meta property="og:image" content={ogImagePath} />
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
             <meta property="og:url" content={socialUrl}></meta>
@@ -195,7 +197,7 @@ export default (() => {
         )}
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
-        <meta name="generator" content="Quartz" />
+        {/* <meta name="generator" content="Quartz" /> */}
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
           .filter((resource) => resource.loadTime === "beforeDOMReady")

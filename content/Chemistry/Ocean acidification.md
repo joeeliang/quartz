@@ -1,0 +1,1 @@
+$$CO_{2} + H_{2}O \rightleftharpoons H_{2}CO_{3}$$ $$H_{2}CO_{3} \leftrightharpoons H^{+} + HCO_{3}^{-}$$

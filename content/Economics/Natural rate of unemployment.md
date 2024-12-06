@@ -1,0 +1,1 @@
+The largest part of this is structural unemployment, so to reduce the total natural rate of unemployment, look for polices to reduce the structural unemployment.

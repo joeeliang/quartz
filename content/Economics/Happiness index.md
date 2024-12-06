@@ -1,0 +1,10 @@
+- Real GDP *per capita*
+- Social support
+- Healthy life expectancy
+- Freedom to make life choices
+- Generosity
+- Perceptions of corruptions
+- Measures self-reported well-being and happiness
+- Typically based on surveys asking people to rate their happiness or life satisfaction on a scale
+- Can be used to compare happiness across countries, regions, or populations
+- Examples: Gallup Global Emotions Report, World Happiness Report

@@ -1,0 +1,2 @@
+**Definition:** Ability of atoms to attract electrons in a covalent bond.
+**Trend:** Increases across the period. Greater number of positive protons, same electron shielding, so greater effective nuclear charge. Down the group, it decreases, since increased energy levels lead to higher electron shielding.

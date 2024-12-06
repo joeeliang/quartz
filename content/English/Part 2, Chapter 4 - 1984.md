@@ -1,0 +1,3 @@
+Rents the room of Mr. Charrington to live with Julia. She puts on some makeup, and i dont know if this is any significant but her scent is the same as the old woman's prostitute long long ago.
+Also, there is the rat, which could be a [[Symbols in 1984]], or foreshadowing, that the house is not safe. The rat came out of the painting of the telescreen ahha. SHE WAS SOOO close to cleaning it omg.
+They were building their relationships, revealing secrets and sharing their past. The [[glass paperweight]] also became a symbol of the room he was in, the coral was their life, a symbol of eternity at the heart of the crystal.

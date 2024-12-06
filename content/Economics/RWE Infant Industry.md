@@ -1,0 +1,1 @@
+Alexander Hamilton, the first US secretary of the Treasury introduced tariffs to protect the US infant industry and promote economic growth.

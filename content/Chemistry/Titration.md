@@ -1,0 +1,1 @@
+Adds base, and phenylalanine only shows pink for basic. There is excess when equilibrium is reached.

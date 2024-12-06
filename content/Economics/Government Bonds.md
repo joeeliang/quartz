@@ -1,0 +1,2 @@
+Governments very commonly borrow by issuing bonds, which are a form of debt. They issue a certificate called a bond, promising to pay interest at various intervals until a certain date. Holder of the bond is a lender, and the government is the borrower.
+[[Government Bonds Fail RWE]]

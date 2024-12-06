@@ -1,0 +1,7 @@
+[[Ionic model]]
+[[Covalent model]]
+[[Intermolecular forces]]
+[[Metallic Structures]]
+[[Bonding Triangles]]
+[[Alloys]]
+[[Polymers]]

@@ -1,0 +1,3 @@
+Confined in his cell, Winston begins to blur the lines between what is reality and what is not. Reality now seems to only exist in the mind. There is no reality that exists out of human observation. So, if the Party can control human thought, they control reality. [[Reality control]]
+
+Winston wants victory. The victory of dying while fighting. To die without being owned. To be shot, before changed. [[Individual vs Collective]].

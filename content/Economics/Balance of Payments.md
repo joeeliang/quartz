@@ -1,0 +1,3 @@
+All demand for the domestic currency are credits. The demand for foreign currency are debits. A **surplus** is when the balance is positive, and a **deficit** is when there is negative balance.
+
+All credits create demand of currency. All debits create supply of currency. The floating exchange rate is always where-ever the supply is equal to demand. Hence, at this point, all credits balance with debts.

@@ -1,0 +1,4 @@
+Pretty interesting to think about. Recall the increase in spending is possible because of borrowing. By borrowing, the government increases the demand of money, leading to higher interest rates. To see why, [[Monetary Policies#Determining interest rates|determining interest rates]].
+The increase in interest rates can discourage spending. As a result, the consequence is opposite of what the expansionary fiscal policy aims to achieve.
+
+Crowding out is controversial. The [[Keynesian]] view is that government provision of stimulus will increase aggregate demand. The case of crowding out is very much a [[monetarist]] idea.

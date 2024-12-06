@@ -1,0 +1,1 @@
+There are actually two types of these. One of these protect the domestic firms from imports, which we are examining now. They are essentially the same as [[Subsidy RWE]]. The welfare loss is a little different in the perspective of the global market though. The ![[Screenshot 2024-11-08 at 11.52.28 AM.png]]

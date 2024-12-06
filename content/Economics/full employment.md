@@ -1,0 +1,1 @@
+Does not mean all resources are used, in fact, there is still some [[Natural rate of unemployment]].

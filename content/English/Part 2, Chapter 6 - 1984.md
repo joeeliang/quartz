@@ -1,0 +1,2 @@
+Meets O'brien. They interact. There is great foreshadowing here.
+Winston feels the dampness of the grave. He has stepped in it, even though he is familiar with it. The end was written in the beginning.

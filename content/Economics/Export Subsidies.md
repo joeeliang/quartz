@@ -1,0 +1,2 @@
+The price was at $P_{w}$, and then the subsidy increases the price to $P_{w+s}$. Theres a higher quantity of exports. A reminder consumers lose here compared to [[Production Subsidies]] since exporting decreases the quantity of goods available in the domestic market. The government doesn't lose area $a$ because they only pay the quantity exported times the price.
+![[Screenshot 2024-11-08 at 11.59.00 AM.png]]

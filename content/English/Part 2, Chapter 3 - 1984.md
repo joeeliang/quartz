@@ -1,0 +1,4 @@
+Delving into Julia's character more. The chapter paints the idea that she is no intellect. She does not think of overthrowing the party, instead "life as she saw it was quite simple. you wanted a good time". She had no general criticism of it, more so it limited her ability to enjoy life.
+Despite her distain of the Party, she never had the idea of revolting. She is a glimpse into the near future, where the Party is simply a constant.
+Julia explains the sex has been bottled up, and the desire has been redirected as energy to support the Party. Julia's insights are quite powerful.
+[[sex as a theme]]

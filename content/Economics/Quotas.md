@@ -1,0 +1,3 @@
+A legal limit to the quantity of goods that can be imported over a particular time period. When the government issues a quota, it issues a limited number of import licences. The licences are typically distributed to to governments of exporting countries who then distribute them to exporters. The exporters gain a revenue since they are producing at world price while selling at quota price. Consequently, foreign countries prefer quotas over tariffs.
+
+The effects are similar to [[Tariffs]], except there is no government revenue. Also, there is a new supply curve, which is the previous supply curve plus the quantity imported from the quota.

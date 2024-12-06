@@ -1,0 +1,1 @@
+If initial and final states of a system are the same, the enthalpy change will always be the same regardless of which chemical route was undergone.

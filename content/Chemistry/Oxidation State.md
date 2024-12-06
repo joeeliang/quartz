@@ -1,0 +1,1 @@
+Charge the atom would have if the compound were composed of ions. To calculate, go in order of F, O, Cl, H. Then just fill it in. Note for H, it has an oxidation state of +1 unless its bonded with group 1 and 2 metals, which are ionic bonds.

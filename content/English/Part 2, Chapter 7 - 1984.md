@@ -1,0 +1,3 @@
+In the room above Charrington's shop, Winston begins to recall his memories. The phase in this book shows the recovery to a natural state with the disappearance of [[Surveillance]]. Winston's memories implies that the party's surveillance destroys the ability to share, therefor destroying any sense of past.
+More crazy quotes.
+"if they could make me stop loving you -- that would be the real betrayal"

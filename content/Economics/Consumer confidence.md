@@ -1,0 +1,1 @@
+Influenced by factors like fears of cuts in wages, and optimism about the future.

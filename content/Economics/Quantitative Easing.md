@@ -1,0 +1,3 @@
+To increase money supply and decrease interest rates, the central bank can do something like buying bonds in open market operations, but on a much larger scale. The central bank will turn towards buying assets. The assets are owned by commercial banks, and Central banks buy them buy creating reserves electronically for the commercial banks. As a result, there is more money supply in the economy.
+### Examples:
+Japan 2001, America [[2008 Great Recession]], and Europe 2015.

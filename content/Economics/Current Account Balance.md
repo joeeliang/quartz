@@ -1,0 +1,1 @@
+In relations to the [[Exchange Rate]], governments can maintain [[Fixed Exchange Rates]] through using credits and debits. They effectively always balance out to zero.

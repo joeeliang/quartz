@@ -1,0 +1,4 @@
+- sin A cos B = (1/2) [ sin (A + B) + sin (A - B) ]
+- cos A sin B = (1/2) [ sin (A + B) - sin (A - B) ]
+- cos A cos B = (1/2) [ cos (A + B) + cos (A - B) ]
+- sin A sin B = (1/2) [ cos (A - B) - cos (A + B) ]

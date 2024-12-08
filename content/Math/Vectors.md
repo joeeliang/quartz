@@ -4,9 +4,13 @@
 
 Every vector coplanar with **a** and **b** can be expressed as a linear combination of the two.
 
-**Position wevector**: starting at origin and ending on point P.
+Vectors are equal if their midpoints are the same. 
 
-Magnitude is just distance from the start and ending point.
+The vector $\vec{AB}$ has starting point A and ending point, terminal point, B.
+
+**Position vector**: starting at origin and ending on point P.
+
+Magnitude is just distance from the start and ending point, described with Pythagorean, and the notation $|\vec{A}|$.
 
 Unit vector can be obtained by dividing the vector by its magnitude.
 ## Dot Product
@@ -15,7 +19,11 @@ $$\mathbf{u} \cdot \mathbf{v} = u_1 v_1 + u_2 v_2 + \cdots + u_n v_n$$
 Geometric definition:
 $$\mathbf{u} \cdot \mathbf{v} = |\mathbf{u}| |\mathbf{v}| \cos \theta$$
 If the dot product is zero, the two vectors are perpendicular. 
-If they are parallel, $a \cdot b = \pm|a||b|$
+We can rearrnage, to show that the dot product also gives the projection of one vector onto the other.
+
+The projection of $\mathbf{u}$ on $\mathbf{v}$ is given by $|\mathbf{u}|\cos \theta$. Hence, $\frac{\mathbf{u} \cdot \mathbf{v}}{|v|}$ gives the projection.//
+
+If they are parallel, $a \cdot b = \pm|a||b|$. The negative case is when the vectors are going in opposite directions, since $\cos \pi = -1$.
 Also, $a \cdot a = |a|^2$
 
 # Equation of Lines

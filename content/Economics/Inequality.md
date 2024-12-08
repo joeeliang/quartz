@@ -4,7 +4,8 @@ Economic inequality refers to a few things
 - Unequal distribution of wealth
 ## Measurement
 See the distribution of income quintiles, or boxes of percentages.
-hello diagram, Lorenz curve.
+
+[[Draw diagram]], Lorenz curve.
 
 **Gini Coefficient:** Area between the diagonal and the curve (A), area under the diagonal (B), formula is $\frac{A}{A + B}$
 

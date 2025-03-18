@@ -1,7 +1,7 @@
 ## Bohr model
 ![[bohr.svg]]
 
-Isotopes: atoms of the same element with different number of neutrons
+Isotopes: atoms of the same element with different number of neutrons. On the notation here (**I don't know what this is called**): $^{a}_{b}E$, $a$ is the total mass number, and $b$ is the proton number.
 
 ## The 3 spectrums:
 - Continuous

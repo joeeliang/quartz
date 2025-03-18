@@ -7,12 +7,14 @@ Can occur in physical or chemical systems.
 - Equilibrium can be reached from either direction.
 $$Reactant \leftrightharpoons Product$$
 **Lies to the right is more products, or the forward reaction. To the left is more reactants, favouring the backward reaction.**
+
 You made this mistake on a test before, so beware.
 
 # K values
 
 $$K = \frac{[C]^c [D]^d}{[A]^a [B]^b}$$
 Its also just:$$\frac{Products}{Reactants}$$
+The exponents on the concentrations are the coefficients inside of the equations in the reaction.
 
 | Value of K | Extent of Reaction                      |
 | ---------- | --------------------------------------- |

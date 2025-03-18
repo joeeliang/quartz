@@ -1,4 +1,5 @@
 When metallic atoms bond, their valence electrons become delocalized. The many electrons form a "sea" of electrons. The attraction between the metal cations and electrons make the **metallic bond**.
+The strength can be indicated by the qualitative description [[metallic character]]. A lower ionization energy is a higher metallic character since there is delocalized $e^-$to form the sea of electrons.
 ## Properties
 - Electrical conductivity
 	- Mobile delocalized electrons.

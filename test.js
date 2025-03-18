@@ -1,0 +1,1 @@
+input.onTouchMove(-2, (((windowWidth - mouseX- windowWidth/2)*Math.cos(0.436332)) - ((windowHeight - mouseY - windowHeight/2)*Math.sin(0.436332))), (((windowWidth - mouseX- windowWidth/2)*Math.sin(0.436332)) +((windowHeight - mouseY - windowHeight/2)*Math.cos(0.436332))));

@@ -1,4 +1,6 @@
-The acids and bases come in **conjugate** pairs. The acids donate $H^{+}$ and the bases accept them.
+- The acids and bases come in **conjugate** pairs.
+- The acids donate $H^{+}$ and the bases accept them.
+- They only differ by one proton!
 # Amphiprotic
 The substance can act as both an acid and a base.
 Water as a base:

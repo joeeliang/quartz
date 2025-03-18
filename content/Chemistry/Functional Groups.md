@@ -14,5 +14,8 @@
 | Amide            | -CONH2    | Anamine            | -amide      |
 | Ether            | -O-       | Alkoxy             | -oxy        |
 | Aromatic Ring    | -C6H5     | Benzene derivative | (varies)    |
-
+|                  |           |                    |             |
+# Intermolecular forces of the groups:
+Alkane > Halogenoalkane > aldehyde > ketone > alcohol > carboxylic acid
+`1` is ldf, `2-4` are dipole, `5-6` are hydrogen bonds
 [[Naming Functional Group]]

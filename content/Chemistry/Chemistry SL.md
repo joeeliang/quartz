@@ -7,7 +7,10 @@
 [[Stoichiometry]]
 [[Extent of Change]]
 [[Proton Transfers]]
-## Must remember:
+[[Redox]]
+[[Nucleophiles]]
+[[Fossil Fuels]]
+# Memorization:
 [[Polyatomic Ions]]
 [[Exceptions to Filling orbitals]]
 [[Octet rule exceptions]]

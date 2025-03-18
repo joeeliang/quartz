@@ -10,10 +10,6 @@ $$Bonds\ wanted = \frac{want - have}{2}$$
 However, there are [[Octet rule exceptions]]
 
 [[VSEPR Model]]
-## Bond polarity
-Electrons orbit around the more electronegative atom. This creates a **dipole moment.** The greater the electronegativity difference, the greater the shift. The total molecular polarity is the **net dipole**. Use vector addition between all bonds to find the net dipole. The vector points to the more electronegative side.
-**Pure covalent bonds** have electrons that are evenly distributed. There will be no dipoles.
-
 ## Covalent network structures
 
 | Property                    | Diamond                                                        | Graphite                                                                                                                                      | Graphene                                   | Fullerene C60                                                                                  | Nanotubes                                                                 |
